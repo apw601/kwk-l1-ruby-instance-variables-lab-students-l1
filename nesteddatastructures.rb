@@ -8,4 +8,4 @@ group_name{
   :bayleigh => ["want you back", "something to tell you"]
 }
 
-group_name[kaityln]
+group_name[:kaityln]
