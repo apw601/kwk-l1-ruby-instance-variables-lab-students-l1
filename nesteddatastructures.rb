@@ -3,8 +3,8 @@
 #CREATE A HASH
 
 group_name{
-  :kaityln => ["light em up", "the wolf"]
-  :alex => ["green light", "location"]
+  :kaityln => ["light em up", "the wolf"],
+  :alex => ["green light", "location"],
   :bayleigh => ["want you back", "something to tell you"]
 }
 
